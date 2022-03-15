@@ -1,0 +1,21 @@
+.flex-container{
+  display: flex; 
+  justify-content: space-between;
+  background-color: black;
+  font-family: serif; 
+  color: white;
+  overflow: hidden;
+  align-items: center;
+}
+div {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#cfh{
+  padding-left: 1px; 
+  width: 45%;
+  height: 70px;
+  background-color: purple;
+}
